@@ -7,3 +7,5 @@ The log of my #100DaysOfCode challenge. Started on [December 23, Wendneday, 2020
 ### R1D1 
 Made a Weather app in python
 
+### R1D2
+Made an Youtube downloader in python, Practiced decorators

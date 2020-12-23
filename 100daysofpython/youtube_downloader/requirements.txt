@@ -1,0 +1,5 @@
+autopep8==1.5.4
+pycodestyle==2.6.0
+pytube @ git+https://github.com/nficano/pytube@3604ede033b04c3d09bb42e7298008a8b3a7569b
+toml==0.10.2
+typing-extensions==3.7.4.3
