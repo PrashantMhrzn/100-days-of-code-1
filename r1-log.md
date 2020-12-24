@@ -9,3 +9,7 @@ Made a Weather app in python
 
 ### R1D2
 Made an Youtube downloader in python, Practiced decorators
+
+### R1D3
+Made an Bank Management app in python, Practiced classes
+
