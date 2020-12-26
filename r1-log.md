@@ -13,3 +13,8 @@ Made an Youtube downloader in python, Practiced decorators
 ### R1D3
 Made an Bank Management app in python, Practiced classes
 
+### R1D4
+Made a simple twitter bot
+
+### R1D5
+Made a movie recommender
