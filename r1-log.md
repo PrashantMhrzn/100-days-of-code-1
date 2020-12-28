@@ -18,3 +18,7 @@ Made a simple twitter bot
 
 ### R1D5
 Made a movie recommender
+
+### R1D6
+Learned about unittest in python
+
