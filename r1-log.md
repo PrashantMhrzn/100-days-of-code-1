@@ -22,3 +22,6 @@ Made a movie recommender
 ### R1D6
 Learned about unittest in python
 
+### R1D7
+Made a todo app in python with sqlite database, Learned context managers
+
