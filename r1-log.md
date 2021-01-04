@@ -25,3 +25,5 @@ Learned about unittest in python
 ### R1D7
 Made a todo app in python with sqlite database, Learned context managers
 
+### R1D8
+Made a covid cases web app in Django

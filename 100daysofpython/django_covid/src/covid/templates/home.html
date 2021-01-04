@@ -1,0 +1,14 @@
+{%extends 'base.html'%}
+{%load humanize%}
+{%block content%}
+
+<h1>Global Cases</h1>
+<br><br>
+<h2>Cases: {{cases|intcomma}}</h2>
+<h2>Deaths: {{deaths|intcomma}}</h2>
+<h2>Tests: {{tests|intcomma}}</h2>
+<h2>Today Cases: {{today_cases|intcomma}}</h2>
+<h2>Recovered: {{recovered|intcomma}}</h2>
+<h2>Active: {{active|intcomma}}</h2>
+
+{%endblock content%}
