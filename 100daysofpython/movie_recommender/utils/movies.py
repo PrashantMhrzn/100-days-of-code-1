@@ -13,9 +13,9 @@ class Movie:
         self.URL = f'https://www.imdb.com/search/title/?title_type=feature&release_date={from_year},{to_year}'
         self.response = requests.get(self.URL).content
         self.soup = BeautifulSoup(self.response, 'html.parser')
-        self.collect_movies()
+        self._collect_movies()
 
-    def collect_movies(self):
+    def _collect_movies(self):
         movies = self.soup.select(
             'html body#styleguide-v2.fixed div#wrapper div#root.redesign div#pagecontent.pagecontent div#content-2-wide.redesign div#main div.article div.lister.list.detail.sub-list div.lister-list div.lister-item.mode-advanced div.lister-item-content')
 
