@@ -27,3 +27,6 @@ Made a todo app in python with sqlite database, Learned context managers
 
 ### R1D8
 Made a covid cases web app in Django
+
+### R1D9
+Made a automatic youtube playlist player
